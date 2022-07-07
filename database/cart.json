@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "productos": [
+            {
+                "id": 2,
+                "nombre": "iPhone 12",
+                "descripcion": "iPhone 12 refurbished",
+                "foto_url": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone12-digitalmat-gallery-2-202111?wid=364&hei=333&fmt=png-alpha&.v=1635178709000",
+                "precio": 150000,
+                "stock": 80
+            },
+            {
+                "id": 1,
+                "nombre": "Apple Watch Series 7",
+                "descripcion": "Apple Watch Series 7 - Silver",
+                "foto_url": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone12-digitalmat-gallery-2-202111?wid=364&hei=333&fmt=png-alpha&.v=1635178709000",
+                "precio": 85000,
+                "stock": 40
+            }
+        ]
+    }
+]
